@@ -4,6 +4,10 @@
 //** LAST IN FIRST OUT 
 // the last element added to the stack will be the first element removed from the stack
 
+// BIG O
+// insertion O(1)
+// removal O(1)
+
 // ** array implementation 
 let stack = [];
 stack.push("google")
